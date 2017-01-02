@@ -7,13 +7,29 @@
 
 
 #data Set 
-# normal : 
 
-# malignant : 
+> benign : 252 
 
-data augmentation : No
+> malignant : 96
 
-ROI data : Yes 
+>train data : 282
+
+>validation data : 250
+
+#data reshpae 
+
+>size 64 * 64
+
+#data augmentation  
+
+>Malignant : Yes ( up down left right side flip , 96 *3 )
+
+normal : No
+
+
+#data processing
+> ROI is extracted from original pic
+
 
 
 #representative Image Convolution 1 
