@@ -24,7 +24,7 @@
 
 >Malignant : Yes ( up down left right side flip , 96 *3 )
 
-normal : No
+>normal : No
 
 
 #data processing
